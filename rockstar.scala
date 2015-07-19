@@ -1,1 +1,1 @@
-d67e57d9-2df8-11e5-b04c-7831c1cd8b2a
+object HelloWorld {def main(args: Array[String]) { println("Hello world, I am a Rockstar in Scala") }}
